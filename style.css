@@ -1,0 +1,14 @@
+body{
+    background-color: wheat;
+}
+.profile-card{
+    text-align: center;
+    background-color: coral;
+    width: 50%;
+    margin-left: 25%;
+    padding: 20px;
+}
+.profile-card img{
+    width: 200px;
+    border-radius: 50%;
+}
