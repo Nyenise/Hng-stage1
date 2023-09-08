@@ -1,5 +1,6 @@
 body{
     background-color: wheat;
+    font-family: Arial, sans-serif;
 }
 .profile-card{
     text-align: center;
@@ -9,6 +10,6 @@ body{
     padding: 20px;
 }
 .profile-card img{
-    width: 200px;
+    max-width: 200px;
     border-radius: 50%;
 }
